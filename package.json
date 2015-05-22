@@ -1,0 +1,27 @@
+{
+  "name": "markdown-field-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mockup.js",
+  "scripts": {
+    "test": "node --harmony node_modules/.bin/nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/escenic/markdown-field-editor.git"
+  },
+  "author": "Hasnae Rehioui <hasnae.rehioui@gmail.com> (http://github.com/hasnaer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/escenic/markdown-field-editor/issues"
+  },
+  "homepage": "https://github.com/escenic/markdown-field-editor",
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "open": "0.0.5",
+    "serve-static": "^1.9.3"
+  }
+}
