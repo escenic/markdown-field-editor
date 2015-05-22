@@ -2,6 +2,9 @@
 
 This experiment needs to be handled with love <3 (please imagine the heart is properly rendered)
 
+Please refer to [Content Studio custom field editors](http://docs.escenic.com/ece-cs-plugin-guide/5.7/custom_field_editors.html)
+to understand the purpose and scope of this experiment.
+
 ## mockup requirements
 
 * nodejs
